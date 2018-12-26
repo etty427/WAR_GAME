@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>1069800983723-i1c225ebt09046krdg93ute448f817a3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1069800983723-i1c225ebt09046krdg93ute448f817a3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDvdiyo8WJ4435_ta4Cw6cjt6gpm7gBomU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1069800983723</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.rainmantechnologies.myPrototype</string>
+	<key>PROJECT_ID</key>
+	<string>rainman-technologies</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rainman-technologies.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1069800983723:ios:a922a195b4fc7f3c</string>
+	<key>DATABASE_URL</key>
+	<string>https://rainman-technologies.firebaseio.com</string>
+</dict>
+</plist>
